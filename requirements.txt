@@ -1,3 +1,2 @@
 streamlit==0.77.0
 base58==2.1.0
-python==3.8.3
